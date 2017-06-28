@@ -2,5 +2,8 @@
   "name": "ms-crm-log-service",
   "version": "0.0.1",
   "main": "log-service.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "cote": "^0.14.1"
+  }
 }
