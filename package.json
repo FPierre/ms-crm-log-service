@@ -1,0 +1,6 @@
+{
+  "name": "ms-crm-log-service",
+  "version": "0.0.1",
+  "main": "log-service.js",
+  "license": "MIT"
+}
