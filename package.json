@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "main": "log-service.js",
   "license": "MIT",
+  "scripts": {
+    "start": "node log-service.js"
+  },
   "dependencies": {
     "cote": "^0.14.1"
   }
