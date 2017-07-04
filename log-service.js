@@ -8,7 +8,7 @@ let index = 0
 const logs = []
 
 responder.on('create', ({ type, event }, cb) => {
-  logs.push({ id: index++, event: event, createdAt: new Date()  })
+  logs.push({ id: index++, event: event, createdAt: new Date() })
   cb()
 })
 
