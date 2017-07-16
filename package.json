@@ -1,10 +1,10 @@
 {
   "name": "ms-crm-log-service",
   "version": "0.0.1",
-  "main": "log-service.js",
+  "main": "./src/log-service.js",
   "license": "MIT",
   "scripts": {
-    "start": "node log-service.js"
+    "start": "node ./src/log-service.js"
   },
   "dependencies": {
     "cote": "^0.14.1",
