@@ -7,7 +7,7 @@
     "start": "node ./src/log-service.js"
   },
   "dependencies": {
-    "cote": "^0.14.1",
+    "cote": "^0.15.1",
     "dotenv": "^4.0.0",
     "mongoose": "^4.11.3"
   }
