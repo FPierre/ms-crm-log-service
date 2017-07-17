@@ -7,7 +7,7 @@ const Log = require('./log')
 
 app.listen(5555)
 
-// connect()
+connect()
   // .then(() => init())
   // .catch(err => console.log(err))
 
